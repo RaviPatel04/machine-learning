@@ -1,2 +1,2 @@
 # machine-learning
- machine lrarning tutorial
+ machine learning tutorial
